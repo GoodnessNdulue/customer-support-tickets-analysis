@@ -1,7 +1,5 @@
 # Customer Support Tickets Dashboard
 
-![Dashboard Preview]https://github.com/GoodnessNdulue/customer-support-tickets-analysis/blob/main/Customer%20Support%20Ticket%20Analysis.png
-
 ## 📌 Project Overview
 
 Built an interactive Power BI dashboard analyzing **7,000+ monthly customer support tickets** across email, phone, chat, and social media channels for a SaaS company.
