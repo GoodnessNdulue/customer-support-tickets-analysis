@@ -1,6 +1,6 @@
 # Customer Support Tickets Dashboard
 
-![Dashboard Preview](dashboard/dashboard_screenshot.png)
+![Dashboard Preview]https://github.com/GoodnessNdulue/customer-support-tickets-analysis/blob/main/Customer%20Support%20Ticket%20Analysis.png
 
 ## 📌 Project Overview
 
