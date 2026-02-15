@@ -76,8 +76,8 @@ Built an interactive Power BI dashboard analyzing **7,000+ monthly customer supp
 
 ## 📂 Project Files
 
-- **Dashboard File:** [customer_support_dashboard.pbix](dashboard/customer_support_dashboard.pbix)
-- **Dashboard Screenshot:** [View Dashboard](dashboard/dashboard_screenshot.png)
+- **Dashboard File:** [customer_support_dashboard.pbix](https://github.com/GoodnessNdulue/customer-support-tickets-analysis/blob/main/Customer%20Support%20Ticket%20Analysis.png)
+- **Dashboard Screenshot:** [View Dashboard](https://github.com/GoodnessNdulue/customer-support-tickets-analysis/blob/main/Customer%20Support%20Ticket%20Analysis.png)
 - **Data Files:** Available upon request (anonymized)
 
 ---
